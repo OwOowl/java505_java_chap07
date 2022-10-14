@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72909bd4-3498-4375-b04e-13f05a6089ee" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExceptionEx/TryWithResourceEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Framework/ArrayListEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Framework/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Framework/HashMapEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Framework/HashSetEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Framework/HashSetEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Framework/HashtableEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Framework/LinkedListEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Framework/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Framework/PropertiesEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Framework/VectorEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Framework/database.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,17 +30,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/java505/intelliJ/chap07&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/java505/intelliJ/jsptest",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\java505\intelliJ\chap07" />
@@ -147,6 +134,8 @@
       <workItem from="1665643959106" duration="1061000" />
       <workItem from="1665705997922" duration="11942000" />
       <workItem from="1665731230067" duration="273000" />
+      <workItem from="1665732113384" duration="210000" />
+      <workItem from="1665732338273" duration="14000" />
     </task>
     <servers />
   </component>
