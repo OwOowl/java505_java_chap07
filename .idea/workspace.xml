@@ -37,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/java505/intelliJ/jsptest",
+    "last_opened_file_path": "E:/java505/javascript/study06",
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
@@ -46,7 +46,7 @@
       <recent name="C:\java505\intelliJ\chap07" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.PropertiesEx">
+  <component name="RunManager" selected="애플리케이션.HashMapEx">
     <configuration name="HashMapEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Framework.HashMapEx" />
       <module name="chap07" />
@@ -114,9 +114,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.HashMapEx" />
         <item itemvalue="애플리케이션.PropertiesEx" />
         <item itemvalue="애플리케이션.HashtableEx" />
-        <item itemvalue="애플리케이션.HashMapEx" />
         <item itemvalue="애플리케이션.HashSetEx2" />
         <item itemvalue="애플리케이션.HashSetEx" />
       </list>
@@ -136,6 +136,7 @@
       <workItem from="1665731230067" duration="273000" />
       <workItem from="1665732113384" duration="210000" />
       <workItem from="1665732338273" duration="14000" />
+      <workItem from="1666264741793" duration="2485000" />
     </task>
     <servers />
   </component>
